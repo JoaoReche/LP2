@@ -1,9 +1,6 @@
 # LP2
 Repositório para entrega de atividades e exercícios de aula.
 
-
-
-
 **Curso:** Análise e Desenvolvimento de Sistemas
 
 **Insituição:** FATEC
